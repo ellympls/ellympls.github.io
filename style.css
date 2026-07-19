@@ -15,3 +15,27 @@ a {
 a:visited {
     color:black;
 }
+ul li {
+    list-style-image:url('gear.png');
+    list-style-type:circle;
+}
+li.coffee {
+    list-style-image:url('coffee.png');
+    list-style-type:circle;
+}
+li.art{
+    list-style-image:url('art.png');
+    list-style-type:circle;
+}
+li.pizza{
+    list-style-image:url('pizza.png');
+    list-style-type:circle;
+}
+li.pinata{
+    list-style-image:url('pinata.png');
+    list-style-type:circle;
+}
+li.bike{
+    list-style-image:url('bike.png');
+    list-style-type:circle;
+}
