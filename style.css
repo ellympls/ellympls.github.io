@@ -8,10 +8,10 @@ body {
     margin:0 5%
 }
 a {
-    color:indigo;
+    color:black;
     background-color:lightcoral;
     padding: 2px 4px;
 }
 a:visited {
-    color:indigo;
+    color:black;
 }
