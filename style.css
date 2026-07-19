@@ -1,7 +1,16 @@
 body {
     background-color:black;
     color:lightcoral;
+    font-family:'Courier New', Courier, monospace;
 }
 #container {
-    margin-left, margin-right: 5%;
+    margin:0 5%
+}
+a {
+    color:magenta;
+    background-color: aqua;
+    padding: 2px 4px;
+}
+a:visited {
+    color:indigo;
 }
