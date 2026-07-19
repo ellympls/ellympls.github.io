@@ -18,3 +18,8 @@ a:visited {
 li {
     list-style-type:circle;
 }
+@media screen and (max-width:800px) {
+    #container {
+      font-size:3em;
+    }
+}
