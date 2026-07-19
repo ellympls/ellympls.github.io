@@ -2,13 +2,14 @@ body {
     background-color:black;
     color:lightcoral;
     font-family:'Courier New', Courier, monospace;
+    line-height 1.5;
 }
 #container {
     margin:0 5%
 }
 a {
     color:magenta;
-    background-color: aqua;
+    background-color:darkblue;
     padding: 2px 4px;
 }
 a:visited {
